@@ -1,0 +1,8 @@
+max_width = 100
+tab_spaces = 2
+brace_style = "PreferSameLine"
+struct_lit_single_line = true
+struct_lit_width = 80
+fn_single_line = true
+single_line_if_else_max_width = 80
+single_line_let_else_max_width = 80
